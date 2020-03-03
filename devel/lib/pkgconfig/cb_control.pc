@@ -1,0 +1,8 @@
+prefix=/home/yulin/carA_nav_ws/devel
+
+Name: cb_control
+Description: Description of cb_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yulin/carA_nav_ws/devel/lib 
+Requires: 

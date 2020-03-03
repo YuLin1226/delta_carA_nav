@@ -1,0 +1,8 @@
+prefix=/home/yulin/carA_nav_ws/devel
+
+Name: cb_description
+Description: Description of cb_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yulin/carA_nav_ws/devel/lib 
+Requires: 

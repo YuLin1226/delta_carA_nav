@@ -1,0 +1,2 @@
+cb_control:cb_description:cb_gazebo:explore:ira_laser_tools:map_merge:rf2o_laser_odometry:solabot_navigation:teleop_twist_keyboard
+-DCATKIN_DEVEL_PREFIX=/home/yulin/carA_nav_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yulin/carA_nav_ws/install -G Unix Makefiles

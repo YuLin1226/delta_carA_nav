@@ -1,0 +1,8 @@
+prefix=/home/yulin/carA_nav_ws/devel
+
+Name: solabot_navigation
+Description: Description of solabot_navigation
+Version: 0.5.0
+Cflags: 
+Libs: -L/home/yulin/carA_nav_ws/devel/lib 
+Requires: roscpp geometry_msgs joy
